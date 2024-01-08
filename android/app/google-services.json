@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607359533803",
+    "project_id": "todolist-e53a3",
+    "storage_bucket": "todolist-e53a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607359533803:android:1fa8e8714574095f1ff4ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBx5D08CLE3OQRkwiljqXslNsTiDQTzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607359533803:android:84e540dfe4d937f21ff4ae",
+        "android_client_info": {
+          "package_name": "com.example.lapor_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBx5D08CLE3OQRkwiljqXslNsTiDQTzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
